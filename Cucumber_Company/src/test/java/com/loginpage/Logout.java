@@ -1,1 +1,6 @@
-
+class demo{
+	void main()
+	{
+		
+	}
+}
