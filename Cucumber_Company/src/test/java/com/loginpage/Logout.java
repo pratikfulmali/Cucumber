@@ -6,4 +6,7 @@ class demo{
 	void m()
 	{
 	}
+	void n()
+	{
+	}
 }
